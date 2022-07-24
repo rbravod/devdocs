@@ -35,6 +35,7 @@ Alex
 Alexander
 Alexandre
 Alexandru
+Alexey
 Alexnader
 Alfonso
 Alison
@@ -46,6 +47,7 @@ Amaia
 Amanda
 Amanpreet
 Amaya
+Amrita
 Anabitarte
 Anandani
 Anant
@@ -216,6 +218,7 @@ Dang
 Dani
 Daniel
 Daniele
+Daniil
 Danny
 Daren
 Darko
@@ -265,6 +268,7 @@ Dulk
 Dunand
 Durber
 Dvorovenko
+Dymshits
 Déniz
 EVAN
 Ebarvia
@@ -290,6 +294,7 @@ Evans
 Fabrice
 Fabriczy
 Faisal
+Fajnberg
 Falcon
 Falcón
 Faller
@@ -425,6 +430,7 @@ ISHIKAWA
 Igor
 Ilicic
 Ilya
+Imhof
 Inaki
 Informática
 Inhofer
@@ -587,6 +593,7 @@ Luuk
 Lévesque
 Macgirvin
 Madden
+Mady
 Magill
 Mahmoud
 Mahmoud.Kassaei
@@ -830,6 +837,7 @@ Ritchey
 Robert
 Robot
 Robynstar
+Rodrigo
 Roes
 Roeser
 Roger
@@ -850,10 +858,12 @@ Russell
 Ryan
 Rézeau
 SSRF
+Saad
 Sachan
 Safat
 Sagar
 Sagie
+Salces
 Salih
 Sammarco
 Sander
@@ -893,6 +903,7 @@ Shashikant
 Sheremeta
 Shintaro
 Shwab
+Silva
 Silver
 Silvia
 Simeon
@@ -1120,6 +1131,7 @@ aredkin
 arjun-kallapur
 ashleyholman
 aszora
+aya.saad
 barbararamiro
 barias
 barrasroger
@@ -1190,12 +1202,14 @@ hanna
 hansdezwart
 havran
 hiendinh
+hieuvu
 iarenaza
 iclearn
 ikawhero
 importer
 info@ewallah.net
 inigozendegi
+james-cnz
 jamiepratt
 jamiesensei
 jbeedell
@@ -1308,6 +1322,7 @@ skaldrom
 skodak
 spvickers
 stabijoh
+stevando
 stigbjarne
 stronk7
 thepurpleblob
